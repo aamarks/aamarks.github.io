@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Marks Testing 3 (Hello World)
+<style>body:background-color:gray;</style>
 ---
 
 # Hi there, I'm Arthur Marks!
