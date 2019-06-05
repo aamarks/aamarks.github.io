@@ -1,6 +1,10 @@
 ---
 layout: default
-title: Marks Testing 3 (Hello World)
+site-title: AAMARKS Gittinit
+page.title: Marks Testing 3 (Hello World)
+site.github.repository_name: https://github.com/aamarks/aamarks.github.io
+site.show_downloads: true
+site.github.zip_url: um
 <style>body{background-color:gray;}</style>
 ---
 
