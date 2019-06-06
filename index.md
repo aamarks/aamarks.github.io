@@ -5,7 +5,9 @@ page.title: Marks Testing 3 (Hello World)
 site.github.repository_name: https://github.com/aamarks/aamarks.github.io
 site.show_downloads: true
 site.github.zip_url: um
-<style>body{background-color:gray;}</style>
+output: 
+  html_document:
+    <style>body{background-color:gray;}</style>
 ---
 
 # Hi there, I'm Arthur Marks! <a href="https://github.com/aamarks/aamarks.github.io" class="btn">back to rep</a>
